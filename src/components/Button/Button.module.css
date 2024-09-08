@@ -1,0 +1,21 @@
+.button {
+  padding: 8px 24px;
+  border: none;
+  outline: none;
+  font-size: 14px;
+  color: white;
+}
+
+.primary {
+  background-color: orange;
+}
+
+.secondary {
+  background-color: teal;
+}
+
+.ghost {
+  background-color: white;
+  border: 1px solid teal;
+  color: black;
+}
